@@ -6,8 +6,6 @@ Los antozoos (Anthozoa:Cnidaria)
 
 [Anthozoa](https://es.wikipedia.org/wiki/Anthozoa)
 
-![pictrure-of-anthozoa](https://es.wikipedia.org/wiki/Anthozoa#/media/File:An%C3%A9mone_de_mer-Bretagne.jpg)
-
 
 ```
 blastn \
